@@ -110,7 +110,7 @@
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
                                 Estamos hablando del Cañón del Pato. Tiene una extensión cercana a los 40 km, está a una altura de 1800 m.s.n.m. y se encuentra en Áncash. La carretera une a Chimbote y Caraz. Fue construida encima de la antigua línea de un ferrocarril.
 
-                                Los vehículos que transitan por ahí están obligados a usar sus luces reglamentarias para advertir su circulación. Además, está compuesta por 35 túneles.
+                            Los vehículos que transitan por ahí están obligados a usar sus luces reglamentarias para advertir su circulación. Además, está compuesta por 35 túneles.
                                 </div>
                             </div>
                         </div>
