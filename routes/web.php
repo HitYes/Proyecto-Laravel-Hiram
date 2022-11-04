@@ -24,3 +24,7 @@ Route::get('/historia', function () {
 Route::get('/musica', function () {
     return view('musica');
 });
+Route::get('/economia', function () {
+    return view('economia');
+});
+
