@@ -108,7 +108,9 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laracasts offers thousands of video tutorials on Laravel, PHP, and JavaScript development. Check them out, see for yourself, and massively level up your development skills in the process.
+                                Estamos hablando del Cañón del Pato. Tiene una extensión cercana a los 40 km, está a una altura de 1800 m.s.n.m. y se encuentra en Áncash. La carretera une a Chimbote y Caraz. Fue construida encima de la antigua línea de un ferrocarril.
+
+                                Los vehículos que transitan por ahí están obligados a usar sus luces reglamentarias para advertir su circulación. Además, está compuesta por 35 túneles.
                                 </div>
                             </div>
                         </div>
@@ -121,7 +123,7 @@
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel News is a community driven portal and newsletter aggregating all of the latest and most important news in the Laravel ecosystem, including new package releases and tutorials.
+                                Las aguas termales de Chacapi, en el Valle del Colca, son un destino que tienes que conocer. Otro destino en el Cusco que recibe gran cantidad de turistas son los manantiales de Cocalmayo. Se trata de un lugar muy frecuentado por quienes desean tomar un descanso, luego de una larga jornada de caminata.
                                 </div>
                             </div>
                         </div>
@@ -129,12 +131,12 @@
                         <div class="p-6 border-t border-gray-200 dark:border-gray-700 md:border-l">
                             <div class="flex items-center">
                                 <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewBox="0 0 24 24" class="w-8 h-8 text-gray-500"><path d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
-                                <div class="ml-4 text-lg leading-7 font-semibold text-gray-900 dark:text-white">Vibrant Ecosystem</div>
+                                <div class="ml-4 text-lg leading-7 font-semibold text-gray-900 dark:text-white"><a href="https://www.peru.travel/pe/masperu/5-banos-termales-en-peru-que-debes-visitar" class="underline text-gray-900 dark:text-white">Cordilleras</div>
                             </div>
 
                             <div class="ml-12">
                                 <div class="mt-2 text-gray-600 dark:text-gray-400 text-sm">
-                                    Laravel's robust library of first-party tools and libraries, such as <a href="https://forge.laravel.com" class="underline">Forge</a>, <a href="https://vapor.laravel.com" class="underline">Vapor</a>, <a href="https://nova.laravel.com" class="underline">Nova</a>, and <a href="https://envoyer.io" class="underline">Envoyer</a> help you take your projects to the next level. Pair them with powerful open source libraries like <a href="https://laravel.com/docs/billing" class="underline">Cashier</a>, <a href="https://laravel.com/docs/dusk" class="underline">Dusk</a>, <a href="https://laravel.com/docs/broadcasting" class="underline">Echo</a>, <a href="https://laravel.com/docs/horizon" class="underline">Horizon</a>, <a href="https://laravel.com/docs/sanctum" class="underline">Sanctum</a>, <a href="https://laravel.com/docs/telescope" class="underline">Telescope</a>, and more.
+                                El Perú posee ambas, la montaña tropical más alta del mundo, la Cordillera Blanca, y uno de los circuitos de caminata más hermosos del mundo, la Cordillera Huayhuash. Estas dos cadenas montañosas se encuentran muy cercanas en la parte centro norte del país.
                                 </div>
                             </div>
                         </div>
