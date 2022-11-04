@@ -34,15 +34,14 @@
             h1 {
                 padding: auto;
                 font-style: rgb(12, 84, 179);
-                width: 20px;
-                height: 20px;
+                width: 300px;
+                height: 300px;
                 background-color: darkolivegreen; 
             }
             h1 > img{
                 padding: auto;
-                font-style: rgb(12, 84, 179);
-                width: 20px;
-                height: 20px;
+                width: 250px;
+                height: 250px;
                 
             }
         </style>
