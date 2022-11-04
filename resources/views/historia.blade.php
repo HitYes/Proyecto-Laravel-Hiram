@@ -4,15 +4,40 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Historia</title>
     <!-- JavaScript Bundle with Popper -->
     <!-- CSS only -->
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+
+<style>
+
+      body {
+        font-family: 'Nunito', sans-serif;
+      }
+      h1 {
+        font-style: rgb(12, 84, 179);
+        width: 100%;
+        height: 100%;
+        position: center;
+        max-width: 1200px;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 20px;    
+      }
+      h1 > img{
+        padding: auto;
+        width: 250px;
+        height: 250px;
+                
+      }
+      </style>
 </head>
 <body>
-    <!--<h1>Hola Empezamos el Proyecto</h1>--->
+    <h1>Hola Empezamos el Proyecto</h1>
     <nav class="navbar navbar-expand-lg bg-light">
-  <div class="container-fluid">
+    <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -47,8 +72,6 @@
     </div>
   </div>
 </nav>
-<nav class="navbar navbar-dark bg-primary">
-  <!-- Navbar content -->
-</nav>
+
 </body>
 </html>
