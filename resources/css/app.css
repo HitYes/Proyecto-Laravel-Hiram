@@ -1,8 +1,13 @@
 body {
     font-family: 'Nunito', sans-serif;
 }
-div > div > div > sgv > g > h1{
+.div > div > sgv > g > h1{
     padding: auto;
     font-style: rgb(12, 84, 179);
+    width: 20px;
+    height: 20px;
+    background-color: darkolivegreen;
+
 }
+
 
