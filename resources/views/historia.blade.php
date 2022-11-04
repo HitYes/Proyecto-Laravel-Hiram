@@ -35,7 +35,7 @@
       </style>
 </head>
 <body>
-    <h1>Hola Empezamos el Proyecto</h1>
+    <center><h1>Hola Empezamos el Proyecto</h1></center>
     <nav class="navbar navbar-expand-lg bg-light">
     <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>

@@ -11,7 +11,7 @@
     </style>
 </head>
 <body>
-    <h1>INSTRU-HOBBIES</h1>
+    <center><h1>INSTRU-HOBBIES</h1></center>
     <p>Tenemos los mejores instrumentos de la ciudad y contamos con la garantia para tu instrumento por muchos años </p>
 <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="false">
   <div class="carousel-indicators">
